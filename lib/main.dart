@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:islami_app/ui/home/home_screen.dart';
+import 'package:islami_app/ui/onboarding/onboarding_screen.dart';
 import 'package:islami_app/utils/app_routes.dart';
 
 void main() {
@@ -13,10 +14,11 @@ class IslamiApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      initialRoute: AppRoutes.homeScreenRoute ,
+      initialRoute: AppRoutes.onBoardingScreenRoute,
       routes:
       {
         AppRoutes.homeScreenRoute : (context) => HomeScreen(),
+        AppRoutes.onBoardingScreenRoute: (context) => OnboardingScreen()
       },
     );
   }

@@ -17,4 +17,9 @@ class AppTextStyle {
     fontSize: 20,
     fontFamily: 'Janna LT Bold',
   );
+  static TextStyle labelStyle = TextStyle(
+    color: AppColors.goldColor,
+    fontSize: 12,
+    fontFamily: 'Janna LT Bold',
+  );
 }

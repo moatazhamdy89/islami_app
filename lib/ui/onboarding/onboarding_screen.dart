@@ -70,30 +70,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               ),
             ],
           ),
-          // footer:
-          // Padding(
-          //   padding: const EdgeInsets.only(top: 30),
-          //   child: Column(
-          //     spacing: 30,
-          //     crossAxisAlignment: CrossAxisAlignment.center,
-          //     children: [
-          //       Text(
-          //         'Bearish',
-          //         style: AppTextStyle.onBoardingFooterStyle,
-          //       ),
-          //       Expanded(
-          //         child: Padding(
-          //           padding: const EdgeInsets.symmetric(horizontal: 16),
-          //           child: Text(
-          //             'Praise the name of your Lord, the Most High',
-          //             style: AppTextStyle.onBoardingDescFooterStyle,
-          //             textAlign: TextAlign.center,
-          //           ),
-          //         ),
-          //       ),
-          //     ],
-          //   ),
-          // ),
         ),
 
         PageViewModel(
@@ -132,30 +108,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               ),
             ],
           ),
-          // footer:
-          // Padding(
-          //   padding: const EdgeInsets.only(top: 30),
-          //   child: Column(
-          //     spacing: 30,
-          //     crossAxisAlignment: CrossAxisAlignment.center,
-          //     children: [
-          //       Text(
-          //         'Bearish',
-          //         style: AppTextStyle.onBoardingFooterStyle,
-          //       ),
-          //       Expanded(
-          //         child: Padding(
-          //           padding: const EdgeInsets.symmetric(horizontal: 16),
-          //           child: Text(
-          //             'Praise the name of your Lord, the Most High',
-          //             style: AppTextStyle.onBoardingDescFooterStyle,
-          //             textAlign: TextAlign.center,
-          //           ),
-          //         ),
-          //       ),
-          //     ],
-          //   ),
-          // ),
         ),
 
         PageViewModel(
@@ -194,30 +146,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               ),
             ],
           ),
-          // footer:
-          // Padding(
-          //   padding: const EdgeInsets.only(top: 30),
-          //   child: Column(
-          //     spacing: 30,
-          //     crossAxisAlignment: CrossAxisAlignment.center,
-          //     children: [
-          //       Text(
-          //         'Bearish',
-          //         style: AppTextStyle.onBoardingFooterStyle,
-          //       ),
-          //       Expanded(
-          //         child: Padding(
-          //           padding: const EdgeInsets.symmetric(horizontal: 16),
-          //           child: Text(
-          //             'Praise the name of your Lord, the Most High',
-          //             style: AppTextStyle.onBoardingDescFooterStyle,
-          //             textAlign: TextAlign.center,
-          //           ),
-          //         ),
-          //       ),
-          //     ],
-          //   ),
-          // ),
         ),
 
         PageViewModel(
@@ -256,30 +184,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               ),
             ],
           ),
-          // footer:
-          // Padding(
-          //   padding: const EdgeInsets.only(top: 30),
-          //   child: Column(
-          //     spacing: 30,
-          //     crossAxisAlignment: CrossAxisAlignment.center,
-          //     children: [
-          //       Text(
-          //         'Bearish',
-          //         style: AppTextStyle.onBoardingFooterStyle,
-          //       ),
-          //       Expanded(
-          //         child: Padding(
-          //           padding: const EdgeInsets.symmetric(horizontal: 16),
-          //           child: Text(
-          //             'Praise the name of your Lord, the Most High',
-          //             style: AppTextStyle.onBoardingDescFooterStyle,
-          //             textAlign: TextAlign.center,
-          //           ),
-          //         ),
-          //       ),
-          //     ],
-          //   ),
-          // ),
         ),
 
         PageViewModel(
@@ -318,30 +222,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               ),
             ],
           ),
-          // footer:
-          // Padding(
-          //   padding: const EdgeInsets.only(top: 30),
-          //   child: Column(
-          //     spacing: 30,
-          //     crossAxisAlignment: CrossAxisAlignment.center,
-          //     children: [
-          //       Text(
-          //         'Bearish',
-          //         style: AppTextStyle.onBoardingFooterStyle,
-          //       ),
-          //       Expanded(
-          //         child: Padding(
-          //           padding: const EdgeInsets.symmetric(horizontal: 16),
-          //           child: Text(
-          //             'Praise the name of your Lord, the Most High',
-          //             style: AppTextStyle.onBoardingDescFooterStyle,
-          //             textAlign: TextAlign.center,
-          //           ),
-          //         ),
-          //       ),
-          //     ],
-          //   ),
-          // ),
         ),
       ],
     );
